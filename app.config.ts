@@ -1,10 +1,10 @@
 // ! 这里的数据在客户端、服务端都可调用，不要在这里存储敏感数据
 
 /** 网站名称 */
-export const WEBSITE_NAME = '达瓦AI工具导航'
+export const WEBSITE_NAME = 'BL1.TECH'
 
 export const WEBSITE_KEYWORDS =
-  '开源书签管理, AI整理书签, 开发者工具, 网页收藏神器, 跨平台书签同步, 优质网站导航, 书签云管理'
+  '耗不了一点（h.bl1.tech）导航，一个专注AI与效率提升的网址导航，你的专属网络收藏夹/工具集'
 
 export const IS_DEV = process.env.NODE_ENV === 'development'
 
