@@ -4,7 +4,7 @@
 export const WEBSITE_NAME = 'BL1.TECH'
 
 export const WEBSITE_KEYWORDS =
-  '耗不了一点（h.bl1.tech）导航，一个专注AI与效率提升的网址导航，你的专属网络收藏夹/工具集'
+  '一个专注AI与效率提升的网址导航，你的专属网络收藏夹/工具集'
 
 export const IS_DEV = process.env.NODE_ENV === 'development'
 
@@ -118,7 +118,7 @@ export const Assets = {
 }
 
 export const ExternalLinks = {
-  REPO: 'https://github.com/Y80/bmm',
+  REPO: 'https://github.com/DavaBowie/Nav',
 } as const
 
 /** 默认情况下每页获取的书签个数；出于栅格布局的考虑这里选用 24 */
