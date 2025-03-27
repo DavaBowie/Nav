@@ -1,7 +1,7 @@
 // ! 这里的数据在客户端、服务端都可调用，不要在这里存储敏感数据
 
 /** 网站名称 */
-export const WEBSITE_NAME = 'BL1.TECH'
+export const WEBSITE_NAME = 'iflux.art'
 
 export const WEBSITE_KEYWORDS =
   '一个专注AI与效率提升的网址导航，你的专属网络收藏夹/工具集'
@@ -118,7 +118,7 @@ export const Assets = {
 }
 
 export const ExternalLinks = {
-  REPO: 'https://github.com/DavaBowie/Nav',
+  REPO: 'https://github.com/iflux-art/Bookmark',
 } as const
 
 /** 默认情况下每页获取的书签个数；出于栅格布局的考虑这里选用 24 */
