@@ -1,10 +1,10 @@
 // ! 这里的数据在客户端、服务端都可调用，不要在这里存储敏感数据
 
 /** 网站名称 */
-export const WEBSITE_NAME = 'iflux.art'
+export const WEBSITE_NAME = 'iFluxArt导航'
 
 export const WEBSITE_KEYWORDS =
-  '一个专注AI与效率提升的网址导航，你的专属网络收藏夹/工具集'
+  'dao.iflux.art - 一个专注AIGC与效率提升的网络收藏夹'
 
 export const IS_DEV = process.env.NODE_ENV === 'development'
 

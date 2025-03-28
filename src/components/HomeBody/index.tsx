@@ -91,7 +91,9 @@ export default function HomeBody(props: Props) {
           {showEnd && (
             <div className="mt-12 flex-center">
               <Divider orientation="vertical" className="h-3" />
-              <span className="mx-4 text-xs text-foreground-400 xs:mx-8">END</span>
+              <span className="mx-4 text-xs text-foreground-400 xs:mx-8">申请收录/商务合作 - hello@iflux.art</span>
+              <Divider orientation="vertical" className="h-3" />
+              <span className="mx-4 text-xs text-foreground-400 xs:mx-8">iFluxArt 斐流艺创 - 斐然成流·艺创天成</span>
               <Divider orientation="vertical" className="h-3" />
             </div>
           )}
